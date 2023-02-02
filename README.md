@@ -36,11 +36,9 @@
 
 <div align="center">
     <h2>Github Profile Stats 📊</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realatharv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="175px">
-    <img src="https://github-readme-stats.vercel.app/api?username=realatharv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=realatharv&show_icons=true&hide_border=true&theme=dark" height="175px">
-    <!-- <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=realatharv&theme=onedark&no-frame=true&no-bg=true&theme=discord"> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravvula&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="175px">
+    <img src="https://github-readme-stats.vercel.app/api?username=ravvula&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravvula&show_icons=true&hide_border=true&theme=dark" height="175px">
 
 
  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
