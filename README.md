@@ -1,4 +1,4 @@
-<a href="https://discord.gg/shiba"><img src="[https://i.imgur.com/z1oWSiy.png](https://cdn.discordapp.com/attachments/1068106446966902827/1070746259020841011/static.png)" width="100%" height="auto"/></a>
+<a href="https://discord.gg/shiba"><img src="https://cdn.discordapp.com/attachments/1068106446966902827/1070746259020841011/static.png" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
