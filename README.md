@@ -1,4 +1,4 @@
-<a href="https://discord.gg/shiba"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<a href="https://discord.gg/shiba"><img src="[https://i.imgur.com/z1oWSiy.png](https://cdn.discordapp.com/attachments/1068106446966902827/1070746259020841011/static.png)" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -17,23 +17,23 @@
 
 <p>
   
-Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Hi 👋, I am **Ravula** an enthusiastic and ambitious web and game developer. I specialise in Web Development, JavaScript, Game Development and Python Progming. I love to network, join new communities and add value
 
 <div>
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 I’m currently on a journey to build **webt** 
 
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 I’m currently learning **Backend** 🤓
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co)
+<!-- - 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co) -->
 
-- 💬 Ask me about **open source, web development, and community management**
+- 💬 Ask me about **web development, game development, python and design**
 
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Reach me out at **raaavula@outlook.com**
 
 </details>
   
