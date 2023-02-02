@@ -42,16 +42,16 @@
 
 
  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/realatharv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;&nbsp;
-<a href = 'https://www.twitter.com/realatharv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp;&nbsp;
-<a href = 'https://atharv.is-a.dev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> &nbsp;&nbsp;
-<a href = 'https://www.github.com/realatharv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp;&nbsp;
+<!-- <a href = 'https://www.linkedin.com/in/realatharv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;&nbsp; -->
+<a href = 'https://www.twitter.com/raaavula'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp;&nbsp;
+<!-- <a href = 'https://atharv.is-a.dev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> &nbsp;&nbsp; -->
+<a href = 'https://www.github.com/ravvula'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp;&nbsp;
 
  
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Some Programming Humor just in case :) <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=realatharv.realatharv)     <img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/popcorn-owo-popcorn-girl.gif">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ravvula.ravvula)     <img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/popcorn-owo-popcorn-girl.gif">
 <p align='left'>
 
