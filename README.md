@@ -1,90 +1,59 @@
-<a href="https://discord.gg/shiba"><img src="https://cdn.discordapp.com/attachments/1068106446966902827/1070746259020841011/static.png" width="100%" height="auto"/></a>
-<p align="center">
-<!--   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://twitter.com/raaavul"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   <a href="https://discord.gg/shiba" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+<h1> Hello Fellow < Developers/ >! I am Ravula <img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 50px></h1>    
+
+
+
+
+ 
 </p>
 
-<br/>
+
+<h2> About Me <img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/no-sleep.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://github.com/realatharv/realatharv/blob/main/coding.gif" />
+
+
+- 🔭 I’m currently working on [**Portfolio Website**](https://github.com/realatharv/atharv)
+
+- 🌱 I’m currently learning **Python, API(s), Blockchain development** 
+ 
+- 📫 How to reach me **atharvwv@outlook.com**
+
+- ⚡ Fun fact **I'm just 16**
+
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/realatharv?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/realatharv?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/realatharv?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/realatharv?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/realatharv?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/realatharv?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/realatharv?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
+
 
 <p>
-  
-Hi 👋, I am **Ravula** an enthusiastic and ambitious web and game developer. I specialise in Web Development, JavaScript, Game Development and Python Progming. I love to network, join new communities and add value
-
-<div>
-<details>
-  <summary>🧑 More about me</summary>
-
-- 🔭 I’m currently on a journey to build **webt** 
-
-- 🌱 I’m currently learning **Backend** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-<!-- - 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co) -->
-
-- 💬 Ask me about **web development, game development, python and design**
-
-- 📫 Reach me out at **raaavula@outlook.com**
-
-</details>
-  
-</p>
-  
-
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
-</div>
 
 
-## 🔥 Github Stats
-
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
-
-  <a href="https://github.com/ravvula"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ravvula&theme=radical&title_color=ff3068"></a>
-  <a href="https://github.com/ravvula"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=ravulla&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-
-<!-- ## 📘 My top open source projects
-
-<p align="left">
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/DBM-Extended"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DBM-Extended&repo=mods&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-<p align="right">
-  <a href="https://top.gg/bot/623481583411658753">
-    <img alt="nezuko bot" title="Check out Nezuko" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Nezuko-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.discord.gg/shiba">
-    <img alt="discord community" title="Join our community" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
-  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGiingu"/></a>
-  <a href="https://github.com/Giingu?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Giingu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/giingu">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=giingu&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
-</p>
- -->
-<!-- ## 🎮 Try pressing the buttons and come back down
-
-<div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/>  -->
+<div align="center">
+    <h2>Github Profile Stats 📊</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realatharv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="175px">
+    <img src="https://github-readme-stats.vercel.app/api?username=realatharv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=realatharv&show_icons=true&hide_border=true&theme=dark" height="175px">
+    <!-- <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=realatharv&theme=onedark&no-frame=true&no-bg=true&theme=discord"> -->
 
 
-<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/A.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/down.png" width="35"/></a>
-<br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
-  </div>
+ <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/realatharv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;&nbsp;
+<a href = 'https://www.twitter.com/realatharv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> &nbsp;&nbsp;
+<a href = 'https://atharv.is-a.dev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> &nbsp;&nbsp;
+<a href = 'https://www.github.com/realatharv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> &nbsp;&nbsp;
+
+ 
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=realatharv.realatharv)     <img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/popcorn-owo-popcorn-girl.gif">
+<p align='left'>
+
