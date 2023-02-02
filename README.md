@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! I am Ravula <img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 50px></h1>    
+<h1> Hello Fellow < Developers/ >! I am Ravula <img src = "https://media.discordapp.net/attachments/1068106446966902827/1070746259020841011/static.png" width = 20px></h1>    
 
 
 
