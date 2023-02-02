@@ -39,13 +39,13 @@ Hi 👋, I am **Ravula** an enthusiastic and ambitious web and game developer. I
   
 </p>
   
-<!--
+
 <details>
   <summary>📕 Blog Posts</summary>
   <br />
 </details>
 </div>
--->
+
 
 ## 🔥 Github Stats
 
