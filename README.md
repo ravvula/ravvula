@@ -77,10 +77,10 @@ Hi 👋, I am **Ravula** an enthusiastic and ambitious web and game developer. I
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=giingu&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
 </p>
  -->
-## 🎮 Try pressing the buttons and come back down
+<!-- ## 🎮 Try pressing the buttons and come back down
 
 <div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/> 
+<img src="https://toy.aoaoao.me/image" width="300"/>  -->
 
 
 <br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
