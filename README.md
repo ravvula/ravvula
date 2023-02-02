@@ -54,7 +54,7 @@ Hi 👋, I am **Ravula** an enthusiastic and ambitious web and game developer. I
   <a href="https://github.com/ravvula"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ravvula&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/ravvula"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=ravulla&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-## 📘 My top open source projects
+<!-- ## 📘 My top open source projects
 
 <p align="left">
   <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
@@ -76,7 +76,7 @@ Hi 👋, I am **Ravula** an enthusiastic and ambitious web and game developer. I
   <a href="https://github.com/giingu">
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=giingu&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
 </p>
-
+ -->
 ## 🎮 Try pressing the buttons and come back down
 
 <div style="background:white;">
