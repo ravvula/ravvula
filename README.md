@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [**WEBT**]
 
-- 🌱 I’m currently learning **Python, API(s), Backend** 
+- 🌱 I’m currently learning **Python, API(s), NEXT.js** 
  
 - 📫 How to reach me **raaavula@outlook.com**
 
